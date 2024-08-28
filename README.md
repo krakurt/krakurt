@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://e0.pxfuel.com/wallpapers/853/374/desktop-wallpaper-places-sci-fi-hacker-room.jpg"  />
+  <img height="350" src="https://img.freepik.com/free-photo/aesthetic-anime-character-gaming_23-2151560697.jpg?t=st=1724870443~exp=1724874043~hmac=17db3e20093b3f0076886401373a784e0c2fe55309a4f71a97159ef285176035&w=740"  />
 </div>
 
 ###
